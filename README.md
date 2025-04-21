@@ -103,7 +103,7 @@ docker run --env-file .env -p 3000:3000 -p 3001:3001 dagster-tmdb
 
 ---
 
-## ⏱ Orchestration
+##  Orchestration
 
 | Feature          | Description                                      |
 |------------------|--------------------------------------------------|
@@ -211,9 +211,9 @@ This allows easy review without needing to re-run the full pipeline.
 ##  Author
 
 **Mohamed Laachir**  
-📚 Master 1 Data Engineering  
-📅 2025 — Mini-Projet 4DATA  
-💼 Contact: LinkedIn 
+ Master 1 Data Engineering  
+ 2025 — Mini-Projet 4DATA  
+ Contact: LinkedIn 
 
 ---
 
